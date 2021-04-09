@@ -205,7 +205,7 @@ Download the [Goma Example App]() or look at the [source code](https://github.co
  
 ## Authors
 
-* **Jonas Kaninda**  - [jkanTech](https://github.com/jkantech)
+* **Jonas Kaninda**  - [jkaninda](https://github.com/jkaninda)
 
 
 ## License
